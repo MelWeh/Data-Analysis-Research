@@ -128,3 +128,4 @@ The notebook writes:
     01_market_share_selection.ipynb   Top/middle/bottom 30 US tech by market share   Done
     02_weekly_tracking.ipynb          Weekly price, volume, share + quarterly fund.  WIP
     03_pattern_analysis.ipynb         Trends / patterns discovered in Q2 data         WIP
+    
