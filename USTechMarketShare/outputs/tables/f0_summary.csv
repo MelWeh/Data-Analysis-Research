@@ -1,0 +1,6 @@
+#,finding,headline,evidence
+1,"Three regimes, not a continuum",top10=99.8%  mid=0.170%  bot=0.000105%,f1_concentration
+2,Top-10 share rising over the window,Δtop10=+19.36 pp  Δbot=-0.000 pp,f2_share_trend
+3,"P/E tight at top, wide in middle",top IQR=13.8  mid IQR=32.4,f3_pe_summary
+4,"Volume tracks returns, not share",ρ(|ret|)=-0.11 vs ρ(share)=0.83,cell 6 print
+5,7 tickers excluded from share analyses,split_basis + stale_shares,f5_exclusions

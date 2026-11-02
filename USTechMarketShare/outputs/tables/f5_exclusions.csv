@@ -1,0 +1,6 @@
+ticker,bucket,share_exclusion_reason
+AVGO,top10,split_basis
+BTLN,bottom10,split_basis
+KLAC,top10,split_basis
+YYAI,bottom10,split_basis
+WOLF,middle10,stale_shares
